@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25/09/2015, 15:34:36
+    Author     : Dom
+*/
+
+/*
+ * style.css
+ */
+body 
+{ 
+    padding-top: 70px; 
+    background: #3c3c3c;
+    
+}
+h1
+{
+    color: #3399ff;
+}
+#divForm 
+{ 
+    background-color: #cccccc; 
+    width: 70%; 
+    height: 80%; 
+    left: 30%; 
+    margin: -18% 0 0 -12%; 
+    padding:10px;
+    position: absolute; 
+    top: 50%; 
+}
+div .form-curso
+{
+    width: 50%; 
+}
+input
+{
+    border-radius: 6px;
+}

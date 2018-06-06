@@ -1,0 +1,13 @@
+{
+    "elements": {
+        "a": {},
+        "ul": {},
+        "li": {},
+        "span": {}
+    },
+    "attributes": {
+        "aria-expanded": {
+            "context": "a"
+        }
+    }
+}
